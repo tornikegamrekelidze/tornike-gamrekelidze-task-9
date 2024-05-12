@@ -54,6 +54,7 @@ li a {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 84px;
 }
 
 .bg-div {
@@ -76,6 +77,216 @@ li a {
   color: #fff;
   font-family: "Roboto", sans-serif;
   font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.discover1 {
+  width: 240px;
+  margin-left: 100px;
+  margin-right: 83px;
+}
+
+h4 {
+  margin-bottom: 9px;
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+h5 {
+  margin-bottom: 37px;
+  color: #010101;
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.discover-p {
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.div-1 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1050px;
+  height: 780px;
+  margin-left: 418px;
+  margin-top: -230px;
+}
+
+.div-1 > div {
+  margin-left: 33px;
+}
+
+.kedeli {
+  width: 286px;
+  height: 340px;
+}
+
+.h-1 {
+  margin-top: 23px;
+  margin-bottom: 9px;
+  color: #343232;
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.p-1 {
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+/* აქ დავამთავრე პირველი div */
+
+.qucha {
+  width: 289px;
+  height: 340px;
+}
+
+.h-2 {
+  margin-top: 23px;
+  margin-bottom: 9px;
+  color: #343232;
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 280px;
+}
+
+.p-2 {
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.sea {
+  width: 289px;
+  height: 340px;
+}
+
+.h-3 {
+  margin-top: 23px;
+  margin-bottom: 9px;
+  color: #343232;
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 280px;
+}
+
+.p-3 {
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.snow {
+  width: 289px;
+  height: 340px;
+  margin-top: 56px;
+}
+
+.h-4 {
+  margin-top: 23px;
+  margin-bottom: 9px;
+  color: #343232;
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 280px;
+}
+
+.p-4 {
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+/* აქ დავამთავრე მეოთხე div */
+
+.orange {
+  width: 289px;
+  height: 340px;
+  margin-top: 56px;
+}
+
+.h-5 {
+  margin-top: 23px;
+  margin-bottom: 9px;
+  color: #343232;
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 280px;
+}
+
+.p-5 {
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.cloud {
+  width: 289px;
+  height: 340px;
+  margin-top: 56px;
+}
+
+.h-6 {
+  margin-top: 23px;
+  margin-bottom: 9px;
+  color: #343232;
+  font-family: "Roboto", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 280px;
+}
+
+.p-6 {
+  color: #636060;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
